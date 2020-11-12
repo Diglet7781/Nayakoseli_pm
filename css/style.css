@@ -5,8 +5,5 @@
 }
 img {
     width: 300px;
-}
-.project {
-    border-style: solid;
-    background-color: red;  
+    height: 300px;
 }
